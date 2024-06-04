@@ -1,0 +1,100 @@
+{
+  "header": {
+    "logo": "Cross Border Logistics",
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "services": "Our Services",
+      "contact": "Get in Touch"
+    },
+    "order": "Start Shipping"
+  },
+  "main": {
+    "home": {
+      "title": "SAVE WITH CROSS BORDER SHIPPING FROM CANADA TO THE UNITED STATES",
+      "description": "At CrossBorder Shipments, we specialize in providing cost-effective shipping services for businesses shipping from Montreal, Laval, and the South Shore to locations across the United States.",
+      "getStarted": "Ship Now"
+    },
+    "about": {
+      "title": "Learn More About Our Expertise",
+      "description": "Expert cross-border logistics provider, dedicated to bridging the gap between local products and the US market with seamless, reliable shipping solutions."
+    },
+    "security": {
+      "title": "Our Services Include",
+      "description": "- Use of U.S. address for cheaper freight rates - Comprehensive logistics solutions tailored for online sellers and various businesses - Bulk shipment transportation"
+    },
+    "services": {
+      "title": "Why Choose CrossBorder Shipments?",
+      "learnMore": "Discover More",
+      "servOff1": "Cost-Effective Shipping",
+      "descOff1": "We come to you, pick up your shipments, and transport them across the border, drastically cutting your shipping expenses.",
+      "servOff2": "E-Commerce and Food Businesses",
+      "descOff2": "We cater to Amazon and eBay sellers, e-commerce stores, and food businesses, adapting our services to meet the unique needs of each sector.",
+      "servOff3": "Streamlined Logistics",
+      "descOff3": "Our streamlined process not only saves you money but also simplifies your operations.",
+      "servOff4": "Trusted and Reliable",
+      "descOff4": " With years of experience and a commitment to excellence, CrossBorder Shipments is your trusted partner for expanding your business across the border.",
+      "servOff5": "Expand Your Business Horizons",
+      "descOff5": "Our dedicated support team is here to assist you at every step of your shipping process."
+    },
+    "contact": {
+      "title": "Reach Out to Us",
+      "description": "For inquiries or support, contact us via email, phone, or visit our headquarters. We're here to help.",
+      "info": {
+        "phoneLabel": "Phone",
+        "phone": "514-456-4789",
+        "emailLabel": "Email",
+        "email": "info@crossbordershipments.com",
+        "addressLabel": "Location",
+        "address": "433 rue chabanel"
+      },
+      "contactUs": "Contact Support"
+    }
+  },
+  "footer": {
+    "logo": "Cross Border Logistics",
+    "description": "Seamless & Secure Cross-Border Shipping",
+    "services": "Logistics Services",
+    "pricing": "Get a Quote",
+    "discounts": "Special Offers",
+    "reportBug": "Feedback",
+    "terms": "Terms & Conditions",
+    "company": "About Our Company",
+    "blog": "Industry Insights",
+    "ourMission": "Our Commitment",
+    "getTouch": "Connect With Us",
+    "community": "Logistics Community",
+    "support": "24/7 Support",
+    "questions": "FAQs",
+    "help": "Need Assistance?",
+    "social": {
+      "facebook": {
+        "title": "Facebook",
+        "link": "https://www.facebook.com/CrossBorderLogistics"
+      },
+      "twitter": {
+        "title": "Twitter",
+        "link": "https://www.twitter.com/CrossBorderLogistics"
+      },
+      "instagram": {
+        "title": "Instagram",
+        "link": "https://www.instagram.com/CrossBorderLogistics"
+      }
+    }
+  },
+  "scrollUp": {
+    "title": "Scroll to Top"
+  },
+  "languageChanger": {
+    "languageSelector": "Choose Language",
+    "zoneName": "USA",
+    "langName": "English",
+    "zoneFlag": "English Language"
+  },
+  "colorChanger": {
+    "yellow": "Opt for Yellow Theme",
+    "red": "Switch to Red Theme",
+    "orange": "Select Orange Theme",
+    "green": "Go for Green Theme"
+  }
+}
