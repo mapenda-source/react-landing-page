@@ -1,102 +1,100 @@
 {
   "header": {
-    "logo": "Delivery",
+    "logo": "Cross border",
     "nav": {
-      "home": "Inicio",
-      "about": "Sobre nosotros",
-      "services": "Servicios",
-      "contact": "Contacto"
+      "home": "Accueil",
+      "about": "À propos",
+      "services": "Nos services",
+      "contact": "Contact"
     },
-    "order": "¡Pide ya!"
+    "order": "Commencez à expédier"
   },
   "main": {
     "home": {
-      "title": "Pide tus productos rápido y fácil",
-      "description": "Pide tus comidas favoritas a cualquier hora y te lo llevaremos justo dónde estés",
-      "getStarted": "Empecemos"
+      "title": "ÉCONOMISEZ AVEC LA LIVRAISON TRANSFRONTALIÈRE DU CANADA VERS LES ÉTATS-UNIS",
+      "description": "Chez CrossBorder Shipments, nous nous spécialisons dans la fourniture de services d'expédition rentables pour les entreprises expédiant de Montréal, Laval et la Rive-Sud vers des destinations à travers les États-Unis.",
+      "getStarted": "Expédier maintenant"
     },
     "about": {
-      "title": "Conoce un poco más de nosotros",
-      "description": "Somos una compañía dedicada a la distribución de productos entregándolos en tu hogar o el lugar dónde estés, con la mejor calidad de entrega."
+      "title": "En savoir plus sur notre expertise",
+      "description": "Fournisseur expert en logistique transfrontalière, dédié à combler le fossé entre les produits locaux et le marché américain avec des solutions d'expédition fluides et fiables."
     },
     "security": {
-      "title": "Tu seguridad es importante",
-      "description": "Cuando te llega tu pedido, contamos con protocolos de seguridad sanitaria, para que estés protegido de cualquier enfermedad. Mira el video de cómo se realiza la entrega."
+      "title": "Nos services incluent",
+      "description": "- Utilisation d'une adresse aux États-Unis pour des tarifs de fret moins chers - Solutions logistiques complètes adaptées aux vendeurs en ligne et à diverses entreprises - Transport de cargaisons en vrac"
     },
     "services": {
-      "title": "Algunos servicios que ofrecemos",
-      "learnMore": "Más info",
-      "servOff1": "Facilidades de Pago",
-      "descOff1": "Paga con Visa o PayPal sin ningún problema.",
-      "servOff2": "Encuentra tu producto",
-      "descOff2": "Ofrecemos venta de productos a través de Internet.",
-      "servOff3": "Seguimiento del pedido",
-      "descOff3": "En nuestra aplicación puede ver en tiempo real su pedido."
-    },
-    "app": {
-      "title": "Sigue tu pedido en tiempo real",
-      "description": "Con nuestra app puedes observar la ruta de tu pedido, desde nuestra central a dónde estés. ¡Síguelo en la app!",
-      "storeApple": "App Store",
-      "storeGoogle": "Google Play"
+      "title": "Pourquoi choisir CrossBorder Shipments?",
+      "learnMore": "Découvrir plus",
+      "servOff1": "Expédition économique",
+      "descOff1": "Nous venons à vous, récupérons vos expéditions et les transportons à travers la frontière, réduisant considérablement vos frais d'expédition.",
+      "servOff2": "Entreprises de commerce électronique et alimentaires",
+      "descOff2": "Nous répondons aux besoins des vendeurs Amazon et eBay, des boutiques en ligne et des entreprises alimentaires, en adaptant nos services aux besoins uniques de chaque secteur.",
+      "servOff3": "Logistique simplifiée",
+      "descOff3": "Notre processus simplifié vous permet non seulement d'économiser de l'argent mais aussi de simplifier vos opérations.",
+      "servOff4": "Fiable et digne de confiance",
+      "descOff4": "Avec des années d'expérience et un engagement envers l'excellence, CrossBorder Shipments est votre partenaire de confiance pour développer votre entreprise à l'international.",
+      "servOff5": "Étendez les horizons de votre entreprise",
+      "descOff5": "Notre équipe de support dédiée est là pour vous assister à chaque étape de votre processus d'expédition."
     },
     "contact": {
-      "title": "Contacta con nosotros",
-      "description": "Puedes contactarnos desde aquí, puedes escribirnos, llamarnos o visitar nuestro centro de servicio, con gusto te atenderemos.",
+      "title": "Contactez-nous",
+      "description": "Pour toute question ou demande de support, contactez-nous par email, téléphone ou visitez notre siège social. Nous sommes là pour vous aider.",
       "info": {
-        "phoneLabel": "Teléfono",
-        "phone": "123 - 456 - 789",
+        "phoneLabel": "Téléphone",
+        "phone": "514-456-4789",
         "emailLabel": "Email",
-        "email": "delivery@email.com",
-        "addressLabel": "Dirección",
-        "address": "Planeta Tierra"
+        "email": "info@crossbordershipments.com",
+        "addressLabel": "Adresse",
+        "address": "433 rue Chabanel"
       },
-      "contactUs": "Contáctanos"
+      "contactUs": "Support"
     }
   },
   "footer": {
-    "logo": "Delivery",
-    "description": "Pide productos fácil y rápido",
-    "services": "Nuestros Servicios",
-    "pricing": "Precios",
-    "discounts": "Descuentos",
-    "reportBug": "Informa de un error",
-    "terms": "Términos del servicio",
-    "company": "Nuestra compañía",
-    "blog": "Blog",
-    "ourMission": "Nuestra misión",
-    "getTouch": "Contáctanos",
-    "community": "Comunidad",
-    "support": "Soporte",
-    "questions": "Preguntas",
-    "help": "Ayuda",
+    "logo": "Logistique Transfrontalière",
+    "description": "Expédition transfrontalière fluide et sécurisée",
+    "services": "Services de logistique",
+    "pricing": "Obtenir un devis",
+    "discounts": "Offres spéciales",
+    "reportBug": "Commentaires",
+    "terms": "Conditions générales",
+    "company": "À propos de notre entreprise",
+    "blog": "Aperçus de l'industrie",
+    "ourMission": "Notre engagement",
+    "getTouch": "Connectez-vous avec nous",
+    "community": "Communauté logistique",
+    "support": "Support 24/7",
+    "questions": "FAQ",
+    "help": "Besoin d'aide?",
     "social": {
       "facebook": {
-        "title": "facebook",
-        "link": "https://www.facebook.com/"
+        "title": "Facebook",
+        "link": "https://www.facebook.com/CrossBorderLogistics"
       },
       "twitter": {
-        "title": "twitter",
-        "link": "https://www.twitter.com/"
+        "title": "Twitter",
+        "link": "https://www.twitter.com/CrossBorderLogistics"
       },
       "instagram": {
-        "title": "instagram",
-        "link": "https://www.instagram.com/"
+        "title": "Instagram",
+        "link": "https://www.instagram.com/CrossBorderLogistics"
       }
     }
   },
   "scrollUp": {
-    "title": "¡Arriba!"
+    "title": "Revenir en haut"
   },
   "languageChanger": {
-    "languageSelector": "Selector de idioma",
-    "zoneName": "España",
-    "langName": "Castellano",
-    "zoneFlag": "Idioma $t(languageChanger.langName)"
+    "languageSelector": "Choisissez la langue",
+    "zoneName": "États-Unis",
+    "langName": "Français",
+    "zoneFlag": "Langue anglaise"
   },
   "colorChanger": {
-    "yellow": "¡Cambia a color amarillo!",
-    "red": "¡Cambia a color rojo!",
-    "orange": "¡Cambia a color naranja!",
-    "green": "¡Cambia a color verde!"
+    "yellow": "Opter pour le thème jaune",
+    "red": "Passer au thème rouge",
+    "orange": "Sélectionner le thème orange",
+    "green": "Choisir le thème vert"
   }
 }
